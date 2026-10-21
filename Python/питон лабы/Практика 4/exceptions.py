@@ -1,0 +1,2 @@
+class CourseError(Exception):
+    pass
